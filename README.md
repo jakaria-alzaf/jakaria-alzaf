@@ -119,5 +119,10 @@
 ###
 
 <img src="https://raw.githubusercontent.com/jakaria-alzaf/jakaria-alzaf/output/snake.svg" alt="Snake animation" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abujakariacse&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abujakariacse)  
+
+![GitHub metrics](https://metrics.lecoq.io/abujakariacse)  
 
 ###
