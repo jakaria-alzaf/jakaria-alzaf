@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.licdn.com/dms/image/D5603AQEuRnZj6qM_zw/profile-displayphoto-shrink_800_800/0/1702155704910?e=2147483647&v=beta&t=C0YTTTBQSnKa8XzX_wXRkrt4wJjyUPaL6khm7OwO_LA"  />
+<img align="right" height="250" src="https://media.licdn.com/dms/image/D5603AQEuRnZj6qM_zw/profile-displayphoto-shrink_800_800/0/1702155704910?e=2147483647&v=beta&t=C0YTTTBQSnKa8XzX_wXRkrt4wJjyUPaL6khm7OwO_LA"  />
 
 ###
 <p align="left">About me</p>
